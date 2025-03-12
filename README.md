@@ -66,6 +66,10 @@ This is the backend for a personal blogging project built with Django. It provid
     python manage.py runserver
     ```
 
+## Final Output
+
+![alt text](image.png)
+
 ## Usage
 
 You can access the API endpoints using tools like [Postman](https://www.postman.com/) or [cURL](https://curl.se/). The admin interface can be accessed at `/admin/`.

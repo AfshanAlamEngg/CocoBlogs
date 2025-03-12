@@ -40,6 +40,11 @@ This is the backend for a personal blogging project built with Django. It provid
     python -m venv venv
     source venv/bin/activate
     ```
+    If the above code not works, then try the below code.
+    ```bash
+    python -m venv venv
+    source venv/Scripts/activate
+    ```
 
 3. Install the dependencies:
     ```bash
